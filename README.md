@@ -14,7 +14,7 @@ Gráficos comparativos, onde perde, preço, como usar e como testar: **https://i
 
 ## 🎬 Vídeos
 
-- Explicativo 16:9 (3 min) e reel 9:16 (40 s): na [release video-v1.0.0](https://github.com/inematds/muse-wonder/releases/tag/video-v1.0.0) e no guia.
+- Explicativo 16:9 (2 min 15 s, [YouTube](https://www.youtube.com/watch?v=orU-IRYyh5k)) e reel 9:16 (40 s, [YouTube](https://www.youtube.com/shorts/FyEzfekpa10)): na [release video-v1.0.0](https://github.com/inematds/muse-wonder/releases/tag/video-v1.0.0) e no guia.
 
 ## Em números (fontes no guia)
 
